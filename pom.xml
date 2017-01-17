@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-material-icons</artifactId>
-    <version>0.7.1</version>
+    <version>0.7.2-SNAPSHOT</version>
     <name>Angular Material Icons</name>
     <description>Webjar for Angular Material Icons</description>
 
@@ -35,7 +35,7 @@
         <url>http://github.com/webjars/angular-material-icons</url>
         <connection>scm:git:https://github.com/webjars/angular-material-icons.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/angular-material-icons.git</developerConnection>
-        <tag>angular-material-icons-0.7.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
